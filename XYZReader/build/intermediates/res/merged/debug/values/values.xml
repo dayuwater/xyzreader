@@ -17,6 +17,7 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="appbar_color">#607D8B</color>
     <color name="background_floating_material_dark">#ff424242</color>
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
@@ -43,6 +44,8 @@
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
+    <color name="list_item_date_color">#90A4AE</color>
+    <color name="list_item_title_color">#263238</color>
     <color name="ltgray">#ffe0e0e0</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
