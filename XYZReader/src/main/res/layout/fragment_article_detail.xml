@@ -19,6 +19,7 @@
                 android:layout_height="wrap_content"
                 android:background="@color/photo_placeholder">
                 <!--suppress AndroidLintContentDescription -->
+                <!--TODO: change image style-->
                 <ImageView
                     android:id="@+id/photo"
                     android:layout_width="100dp"
@@ -92,6 +93,8 @@
         </FrameLayout>
     </com.example.xyzreader.ui.ObservableScrollView>
 
+
+    <!--TODO: change to floating action button -->
     <ImageButton android:id="@+id/share_fab"
         android:stateListAnimator="@anim/fab_state_list_anim"
         android:background="@drawable/add_fab_background"

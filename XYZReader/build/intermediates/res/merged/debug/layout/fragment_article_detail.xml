@@ -92,6 +92,8 @@
         </FrameLayout>
     </com.example.xyzreader.ui.ObservableScrollView>
 
+
+    <!--TODO: change to floating action button -->
     <ImageButton android:id="@+id/share_fab"
         android:stateListAnimator="@anim/fab_state_list_anim"
         android:background="@drawable/add_fab_background"
