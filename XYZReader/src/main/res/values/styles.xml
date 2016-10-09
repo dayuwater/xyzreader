@@ -17,12 +17,16 @@
 
 <resources>
 
+    <!--use this to define theme of the main activity-->
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
 
     </style>
 
+    <!--use this to define theme of the detail activity-->
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:textColor">@color/ltgray</item>
+        <item name="android:textColorLink">@color/theme_accent</item>
     </style>
 
 </resources>
