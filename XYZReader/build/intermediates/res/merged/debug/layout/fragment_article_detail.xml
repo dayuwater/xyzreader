@@ -95,8 +95,8 @@
 
 
     <!--TODO: change to floating action button -->
-    <ImageButton android:id="@+id/share_fab"
-        android:stateListAnimator="@anim/fab_state_list_anim"
+    <android.support.design.widget.FloatingActionButton android:id="@+id/share_fab"
+
         android:background="@drawable/add_fab_background"
         android:layout_gravity="bottom|end"
         android:layout_marginRight="@dimen/fab_margin"
@@ -104,7 +104,11 @@
         android:layout_width="56dp"
         android:layout_height="56dp"
         android:src="@drawable/ic_share"
-        android:elevation="@dimen/fab_elevation"
-        android:contentDescription="@string/action_share" />
+        android:contentDescription="@string/action_share"
+        app:fabSize="normal"
+        app:elevation="@dimen/fab_elevation"
+        app:pressedTranslationZ="@dimen/fab_press_translation_z"
+        app:borderWidth="0dp"
+        app:layout_anchorGravity="bottom|right|end"/>
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
