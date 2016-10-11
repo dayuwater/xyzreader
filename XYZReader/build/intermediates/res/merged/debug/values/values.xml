@@ -1488,6 +1488,9 @@
         <item name="windowNoTitle">true</item>
     </style>
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/bg500</item>
+        <item name="colorPrimaryDark">@color/bg900</item>
+        <item name="colorAccent">@color/bg300</item>
 
     </style>
     <style name="Theme.Bacon.Detail">
