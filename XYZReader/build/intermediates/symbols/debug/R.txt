@@ -497,6 +497,7 @@ int dimen snackbar_padding_vertical_2lines 0x7f07001d
 int dimen snackbar_text_size 0x7f07006e
 int dimen tab_max_width 0x7f07006f
 int dimen tab_min_width 0x7f07001e
+int dimen toolbar_margin_top 0x7f070070
 int drawable abc_ab_share_pack_mtrl_alpha 0x7f020000
 int drawable abc_btn_borderless_material 0x7f020001
 int drawable abc_btn_check_material 0x7f020002

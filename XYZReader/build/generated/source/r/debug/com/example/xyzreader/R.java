@@ -2085,6 +2085,7 @@ containing a value of this type.
         public static final int snackbar_text_size=0x7f07006e;
         public static final int tab_max_width=0x7f07006f;
         public static final int tab_min_width=0x7f07001e;
+        public static final int toolbar_margin_top=0x7f070070;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
