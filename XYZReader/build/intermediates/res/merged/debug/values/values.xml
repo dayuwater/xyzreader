@@ -50,7 +50,7 @@
     <color name="detail_text_link_color">@color/bg300</color>
     <color name="detail_title_author_color">@color/bg50</color>
     <color name="detail_title_background">@color/bg900</color>
-    <color name="detail_title_date_color">@color/bg700</color>
+    <color name="detail_title_date_color">@color/bg300</color>
     <color name="detail_title_text_color">@color/bg50</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -1490,8 +1490,8 @@
     </style>
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/bg500</item>
-        <item name="colorPrimaryDark">@color/bg900</item>
-        <item name="colorAccent">@color/bg300</item>
+        <item name="colorPrimaryDark">@color/bg700</item>
+        <item name="colorAccent">#4caf50</item>
 
     </style>
     <style name="Theme.Bacon.Detail">

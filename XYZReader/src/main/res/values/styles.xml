@@ -20,8 +20,8 @@
     <!--use this to define theme of the main activity-->
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/bg500</item>
-        <item name="colorPrimaryDark">@color/bg900</item>
-        <item name="colorAccent">@color/bg300</item>
+        <item name="colorPrimaryDark">@color/bg700</item>
+        <item name="colorAccent">#4caf50</item>
 
     </style>
 

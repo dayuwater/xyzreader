@@ -16,12 +16,12 @@
         "source": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_big_media.xml"
-    },
-    {
         "merged": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/activity_article_list.xml",
@@ -92,12 +92,12 @@
         "source": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/layout_snackbar.xml",
-        "source": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/layout_snackbar.xml"
-    },
-    {
         "merged": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/layout_snackbar.xml",
+        "source": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/layout_snackbar.xml"
     },
     {
         "merged": "/Users/tanwang/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",

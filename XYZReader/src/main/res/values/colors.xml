@@ -49,7 +49,7 @@
     <color name="detail_title_background">@color/bg900</color>
     <color name="detail_title_text_color">@color/bg50</color>
     <color name="detail_title_author_color">@color/bg50</color>
-    <color name="detail_title_date_color">@color/bg700</color>
+    <color name="detail_title_date_color">@color/bg300</color>
     <color name="detail_text_color">@color/bg900</color>
     <color name="detail_text_link_color">@color/bg300</color>
     <color name="detail_text_button_color">@color/bg300</color>
